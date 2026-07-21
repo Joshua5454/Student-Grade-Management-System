@@ -2,6 +2,9 @@
 
 A Java console application that manages student records and grades using object-oriented programming principles.
 
+## Overview
+
+This project demonstrates Java programming concepts including object-oriented design, ArrayLists, file handling, and user input management. The application allows users to create student records, assign grades, view information, and store data for future use.
 ## Features
 
 - Add new students
@@ -36,3 +39,7 @@ A Java console application that manages student records and grades using object-
 - Add a graphical user interface (GUI)
 - Add a database for permanent storage
 - Add user authentication
+
+## Application Screenshot
+
+![Student Grade Management System](StudentGradeManagementConsole.png)
